@@ -29,6 +29,8 @@ The design of the MAAS kits will adhere to some key guidelines:
 ## Assemblage
 While the kits define the components of the system, **the arrangement, quantity, and placement of these kits will be determined by the needs of the inhabitants and their desired interactions and shared spaces**. The system is intentionally designed to foster the development of **"third places" – spaces for informal and free social interaction – which are vital for community development**. The inherent **modularity** of the parts also allows for **transformations of the assemblage over time**, enabling adaptation to changing conditions and facilitating maintenance or replacements.
 
+![Nodes](https://github.com/user-attachments/assets/67d9158f-b295-4b9c-ba7c-21c394036b39)
+
 ## Goals
 The primary goals of this research project are to **design, prototype, and develop a database of modular element kits and their assembly instructions**. This valuable resource will be shared as **open-source material**, allowing end-users to **utilize and customize it based on local materials, context, and economic resources**. The platform will be designed to accommodate the addition of **further modular components or locally customized ones** at any time, thereby expanding the possibilities for assembled configurations in a community-driven manner.
 
