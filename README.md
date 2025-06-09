@@ -42,8 +42,8 @@ MAAS is conceived as an open research project, with the understanding that its d
 - Tommaso Venturini - architect/engineer - rammed earth specialist
 - Marco Palma - computational designer - TUWien & Co-de-iT
 
-## Possible Workshops or Seminars
-A series of workshops is proposed as a practical way to engage with the MAAS project. These workshops would offer a **design and hands-on experience** for 12-15 participants, divided into groups focusing on both the **design of kit components and the prototyping of different kit sets**. The workshop structure would emphasize **a feedback loop between the digital modeling of kit parts and their assemblage strategies, and physical prototyping** to test these ideas in reality.
+## Possible Workshops and Seminars
+A series of workshops/seminars could be proposed as a practical way to engage with the MAAS project. These workshops would offer a **design and hands-on experience** for 12-15 participants, divided into groups focusing on both the **design of kit components and the prototyping of different kit sets**. The workshop structure would emphasize **a feedback loop between the digital modeling of kit parts and their assemblage strategies, and physical prototyping** to test these ideas in reality.
 
 ### Topics
 Participants in the workshops will dig into various relevant topics:
