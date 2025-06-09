@@ -1,5 +1,7 @@
 # M.A.A.S. - Modular Architectural Assemblage System
 
+**With humanitarian aid in decline, the international community must shift its focus from short-term relief efforts to inclusive policies that support both refugees and host communities.** United Nations, "5 April 2025
+
 ## Introduction
 The escalating global challenges of climate change, extreme events, wars, and other crises are compelling millions of people to seek new homes each year. Often, those displaced are housed in temporary facilities with limited opportunities to personalize their living spaces. The reality of "climate nomads" necessitates readily deployable architectural solutions, particularly easily assembled housing systems that offer flexible spatial configurations and incorporate essential architectural features. The MAAS project addresses this urgent need by exploring the design of such adaptable, low-to-mid-density housing systems that leverage the benefits of modularity.
 
