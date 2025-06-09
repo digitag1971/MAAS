@@ -58,3 +58,10 @@ Participants in the workshops will dig into various relevant topics:
 ### Required Skills and Tools
 Basic **3D modeling and basic fabrication skills** are required for participation in the workshops. The primary software tools will be **Rhino 3d & Grasshopper**, although other 3D modeling tools could also be used. **Wood and metalworking tools will be provided on-site**, while digital fabrication tools such as **3D printers, CNC routers, and robots**, if available, could be utilized.
  
+> lkfjladjfldf
+
+==ddfagafg==
+`asgfafgadfg`
+
+> [1note] zxcbzbzcvbz
+> <xbzxbvbz
