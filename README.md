@@ -1,12 +1,14 @@
 # M.A.A.S. - Modular Architectural Assemblage System
 
-**With humanitarian aid in decline, the international community must shift its focus from short-term relief efforts to inclusive policies that support both refugees and host communities.** United Nations, "5 April 2025
+*With humanitarian aid in decline, the international community must shift its focus from short-term relief efforts to inclusive policies that support both refugees and host communities.* [United Nations, 25 April 2025](https://news.un.org/en/story/2025/04/1162631)
 
 ## Introduction
 The escalating global challenges of climate change, extreme events, wars, and other crises are compelling millions of people to seek new homes each year. Often, those displaced are housed in temporary facilities with limited opportunities to personalize their living spaces. The reality of "climate nomads" necessitates readily deployable architectural solutions, particularly easily assembled housing systems that offer flexible spatial configurations and incorporate essential architectural features. The MAAS project addresses this urgent need by exploring the design of such adaptable, low-to-mid-density housing systems that leverage the benefits of modularity.
 
 ## Fostering Communities
 MAAS recognizes that relocation efforts should extend beyond providing mere shelter. It aims to empower individuals to participate in the design and construction of their spaces, thereby fostering a sense of belonging and facilitating community growth through social interaction. The core idea is to develop a system that ensures a minimum constructive quality while being simple to build, potentially even self-constructed. This empowers users to articulate and customize spaces and their relationships, which are fundamental to building communities. While initially conceived for emergency contexts, the modularity and adaptability of MAAS open up a range of other potential applications, including off-grid living and exhibition pavilions, and could even inspire unforeseen uses.
+
+![Nodes2](https://github.com/user-attachments/assets/fc920801-baf3-4462-84d3-78d1b7bdab1e)
 
 ## The MAAS research project
 The MAAS project aims to design and prototype modular wooden structures at a 1:1 scale as a proof of concept. These structures are conceived as kits comprising parts and assembly instructions that can be easily assembled by users in diverse configurations through an open-ended process. The project focuses on developing different building 'kits' such as 'structure', 'floor', 'wall', 'rooftop', 'patio', 'louvers', and 'canopy'. These will be designed as modular elements, granting users the freedom to arrange them according to their needs. Each kit will provide the essential materials and "IKEA style" building instructions. Importantly, certain elements such as insulation, interior and exterior finishes, doors, and windows will be optional, encouraging the use and reuse of local materials and enabling building customization. Similar to Lego bricks, the kits are predefined, but the potential assembly outcomes and applications are virtually limitless.
