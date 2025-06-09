@@ -5,9 +5,8 @@
 ## Introduction
 The escalating global challenges of **climate change, extreme events, wars, and other crises** are compelling millions of people to seek new homes each year. Often, those displaced are housed in temporary facilities with limited opportunities to personalize their living spaces. The reality of "climate nomads" necessitates readily deployable architectural solutions, particularly **easily assembled housing** systems that offer **flexible spatial configurations** and incorporate essential architectural features. The MAAS project addresses this urgent need by exploring the design of such adaptable, low-to-mid-density housing systems that leverage the benefits of modularity.
 
-
 ## Fostering Communities
-MAAS recognizes that relocation efforts should extend beyond providing mere shelter. It aims to empower individuals to participate in the design and construction of their spaces, thereby fostering a sense of belonging and facilitating community growth through social interaction. The core idea is to develop a system that ensures a minimum constructive quality while being simple to build, potentially even self-constructed. This empowers users to articulate and customize spaces and their relationships, which are fundamental to building communities. While initially conceived for emergency contexts, the modularity and adaptability of MAAS open up a range of other potential applications, including off-grid living and exhibition pavilions, and could even inspire unforeseen uses.
+MAAS recognizes that relocation efforts should extend beyond providing mere shelter. It aims to **empower individuals to participate in the design and construction of their spaces**, thereby fostering a **sense of belonging and facilitating community growth through social interaction**. The core idea is to develop a system that ensures a **minimum constructive quality** while being **simple to build, potentially even self-constructed**. This empowers users to articulate and customize spaces and their relationships, which are fundamental to building communities. While initially conceived for emergency contexts, the **modularity and adaptability** of MAAS open up a range of other potential applications, including **off-grid living** and exhibition pavilions, and could even inspire unforeseen uses.
 
 ![Nodes2](https://github.com/user-attachments/assets/fc920801-baf3-4462-84d3-78d1b7bdab1e)
 
@@ -37,9 +36,9 @@ The primary goals of this research project are to design, prototype, and develop
 MAAS is conceived as an open research project, with the understanding that its development could take diverse directions depending on the specific aspects investigated, the materials chosen, the available machinery and facilities, and emerging research opportunities. As an independent research group, the team is open to collaborations and actively seeking research funding opportunities. Furthermore, they are available for mentoring workshops and seminars in both academic and non-academic settings.
 
 ## Research Project Team
-Andrea Graziano - computational designer - Co-de-iT
-Tommaso Venturini - architect/engineer - rammed earth specialist
-Marco Palma - computational designer - TUWien & Co-de-iT
+- Andrea Graziano - computational designer - Co-de-iT
+- Tommaso Venturini - architect/engineer - rammed earth specialist
+- Marco Palma - computational designer - TUWien & Co-de-iT
 
 ## Possible Workshops or Seminars
 A series of workshops is proposed as a practical way to engage with the MAAS project. These workshops would offer a design and hands-on experience for 12-15 participants, divided into groups focusing on both the design of kit components and the prototyping of different kit sets. The workshop structure would emphasize a feedback loop between the digital modeling of kit parts and their assemblage strategies, and physical prototyping to test these ideas in reality.
