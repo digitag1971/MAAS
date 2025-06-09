@@ -27,13 +27,13 @@ The design of the MAAS kits will adhere to some key guidelines:
 - **Off-Grid Capabilities**: The design will favor energy and water independence to promote self-sufficiency and the conscious use of local resources.
 
 ## Assemblage
-While the kits define the components of the system, the arrangement, quantity, and placement of these kits will be determined by the needs of the inhabitants and their desired interactions and shared spaces. The system is intentionally designed to foster the development of "third places" – spaces for informal and free social interaction – which are vital for community development. The inherent modularity of the parts also allows for transformations of the assemblage over time, enabling adaptation to changing conditions and facilitating maintenance or replacements.
+While the kits define the components of the system, **the arrangement, quantity, and placement of these kits will be determined by the needs of the inhabitants and their desired interactions and shared spaces**. The system is intentionally designed to foster the development of **"third places" – spaces for informal and free social interaction – which are vital for community development**. The inherent **modularity** of the parts also allows for **transformations of the assemblage over time**, enabling adaptation to changing conditions and facilitating maintenance or replacements.
 
 ## Goals
-The primary goals of this research project are to design, prototype, and develop a database of modular element kits and their assembly instructions. This valuable resource will be shared as open-source material, allowing end-users to utilize and customize it based on local materials, context, and economic resources. The platform will be designed to accommodate the addition of further modular components or locally customized ones at any time, thereby expanding the possibilities for assembled configurations in a community-driven manner.
+The primary goals of this research project are to **design, prototype, and develop a database of modular element kits and their assembly instructions**. This valuable resource will be shared as **open-source material**, allowing end-users to **utilize and customize it based on local materials, context, and economic resources**. The platform will be designed to accommodate the addition of **further modular components or locally customized ones** at any time, thereby expanding the possibilities for assembled configurations in a community-driven manner.
 
 ## Open Research Project
-MAAS is conceived as an open research project, with the understanding that its development could take diverse directions depending on the specific aspects investigated, the materials chosen, the available machinery and facilities, and emerging research opportunities. As an independent research group, the team is open to collaborations and actively seeking research funding opportunities. Furthermore, they are available for mentoring workshops and seminars in both academic and non-academic settings.
+MAAS is conceived as an open research project, with the understanding that its development could take diverse directions depending on the specific aspects investigated, the materials chosen, the available machinery and facilities, and emerging research opportunities. As an independent research group, the team is **open to collaborations and actively seeking research funding opportunities**. Furthermore, they are **available for mentoring workshops and seminars** in both academic and non-academic settings.
 
 ## Research Project Team
 - Andrea Graziano - architect & computational designer - Co-de-iT
@@ -41,7 +41,7 @@ MAAS is conceived as an open research project, with the understanding that its d
 - Marco Palma - computational designer - TUWien & Co-de-iT
 
 ## Possible Workshops or Seminars
-A series of workshops is proposed as a practical way to engage with the MAAS project. These workshops would offer a design and hands-on experience for 12-15 participants, divided into groups focusing on both the design of kit components and the prototyping of different kit sets. The workshop structure would emphasize a feedback loop between the digital modeling of kit parts and their assemblage strategies, and physical prototyping to test these ideas in reality.
+A series of workshops is proposed as a practical way to engage with the MAAS project. These workshops would offer a **design and hands-on experience** for 12-15 participants, divided into groups focusing on both the **design of kit components and the prototyping of different kit sets**. The workshop structure would emphasize **a feedback loop between the digital modeling of kit parts and their assemblage strategies, and physical prototyping** to test these ideas in reality.
 
 ### Topics
 Participants in the workshops will dig into various relevant topics:
@@ -54,5 +54,5 @@ Participants in the workshops will dig into various relevant topics:
 - Energy and water collection
 
 ### Required Skills and Tools
-Basic 3D modeling and basic fabrication skills are required for participation in the workshops. The primary software tools will be Rhino 3d & Grasshopper, although other 3D modeling tools could also be used. Wood and metalworking tools will be provided on-site, while digital fabrication tools such as 3D printers, CNC routers, and robots, if available, could be utilized.
+Basic **3D modeling and basic fabrication skills** are required for participation in the workshops. The primary software tools will be **Rhino 3d & Grasshopper**, although other 3D modeling tools could also be used. **Wood and metalworking tools will be provided on-site**, while digital fabrication tools such as **3D printers, CNC routers, and robots**, if available, could be utilized.
  
