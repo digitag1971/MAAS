@@ -11,20 +11,20 @@ MAAS recognizes that relocation efforts should extend beyond providing mere shel
 ![Nodes2](https://github.com/user-attachments/assets/fc920801-baf3-4462-84d3-78d1b7bdab1e)
 
 ## The MAAS research project
-The MAAS project aims to design and prototype modular wooden structures at a 1:1 scale as a proof of concept. These structures are conceived as kits comprising parts and assembly instructions that can be easily assembled by users in diverse configurations through an open-ended process. The project focuses on developing different building 'kits' such as 'structure', 'floor', 'wall', 'rooftop', 'patio', 'louvers', and 'canopy'. These will be designed as modular elements, granting users the freedom to arrange them according to their needs. Each kit will provide the essential materials and "IKEA style" building instructions. Importantly, certain elements such as insulation, interior and exterior finishes, doors, and windows will be optional, encouraging the use and reuse of local materials and enabling building customization. Similar to Lego bricks, the kits are predefined, but the potential assembly outcomes and applications are virtually limitless.
+The MAAS project aims to **design and prototype modular wooden structures at a 1:1 scale as a proof of concept**. These structures are conceived as kits comprising parts and assembly instructions that can be **easily assembled by users** in diverse configurations through an open-ended process. The project focuses on developing different building 'kits' such as 'structure', 'floor', 'wall', 'rooftop', 'patio', 'louvers', and 'canopy'. These will be designed as **modular elements**, granting users the freedom to arrange them according to their needs. Each kit will provide the essential materials and **"IKEA style" building instructions**. Importantly, certain elements such as **insulation, interior and exterior finishes, doors, and windows will be optional, encouraging the use and reuse of local materials and enabling building customization**. Similar to Lego bricks, the kits are predefined, but the potential assembly outcomes and applications are virtually limitless.
 
 ## Kit Design Principles
 The design of the MAAS kits will adhere to some key guidelines:
-- DIY (Do-It-Yourself): Each kit must be easily mounted by anyone, including the final users, thanks to clear instructions. 
-- Minimize Standard Parts: The design will minimize the typologies of standard wood elements and metal parts/connections. 
-- Low-Tech Assembly: Recognizing that energy supply may be unreliable, the design prioritizes low-tech tools and easy assembly methods. 
-- Digital Fabrication (kit parts): precision facilitates assembly so digital manufacturing can be implemented in making the parts. 
-- Custom Tools for assembly: The project will consider the design and digital fabrication of custom tools to simplify the assembly process. 
-- Open-Source Instructions and Database: Assembly instructions will be designed and shared as a database using an open-source approach. 
-- Design for Disassembly: The design will also consider the possibility of disassembly. Materials can potentially be recovered, reused, or repurposed later. 
-- Configurational Variety: Each kit and its modularity should allow for different potential final configurations to enhance variety. 
-- Modular Design for Adaptability: Modular design is central to facilitating repair and transformations over time. 
-- Off-Grid Capabilities: The design will favor energy and water independence to promote self-sufficiency and the conscious use of local resources.
+- **DIY (Do-It-Yourself)**: Each kit must be easily mounted by anyone, including the final users, thanks to clear instructions. 
+- **Minimize Standard Parts**: The design will minimize the typologies of standard wood elements and metal parts/connections. 
+- **Low-Tech Assembly**: Recognizing that energy supply may be unreliable, the design prioritizes low-tech tools and easy assembly methods. 
+- **Digital Fabrication (kit parts)**: precision facilitates assembly so digital manufacturing can be implemented in making the parts. 
+- **Custom Tools for assembly**: The project will consider the design and digital fabrication of custom tools to simplify the assembly process. 
+- **Open-Source Instructions and Database**: Assembly instructions will be designed and shared as a database using an open-source approach. 
+- **Design for Disassembly**: The design will also consider the possibility of disassembly. Materials can potentially be recovered, reused, or repurposed later. 
+- **Configurational Variety**: Each kit and its modularity should allow for different potential final configurations to enhance variety. 
+- **Modular Design for Adaptability**: Modular design is central to facilitating repair and transformations over time. 
+- **Off-Grid Capabilities**: The design will favor energy and water independence to promote self-sufficiency and the conscious use of local resources.
 
 ## Assemblage
 While the kits define the components of the system, the arrangement, quantity, and placement of these kits will be determined by the needs of the inhabitants and their desired interactions and shared spaces. The system is intentionally designed to foster the development of "third places" – spaces for informal and free social interaction – which are vital for community development. The inherent modularity of the parts also allows for transformations of the assemblage over time, enabling adaptation to changing conditions and facilitating maintenance or replacements.
@@ -36,7 +36,7 @@ The primary goals of this research project are to design, prototype, and develop
 MAAS is conceived as an open research project, with the understanding that its development could take diverse directions depending on the specific aspects investigated, the materials chosen, the available machinery and facilities, and emerging research opportunities. As an independent research group, the team is open to collaborations and actively seeking research funding opportunities. Furthermore, they are available for mentoring workshops and seminars in both academic and non-academic settings.
 
 ## Research Project Team
-- Andrea Graziano - computational designer - Co-de-iT
+- Andrea Graziano - architect & computational designer - Co-de-iT
 - Tommaso Venturini - architect/engineer - rammed earth specialist
 - Marco Palma - computational designer - TUWien & Co-de-iT
 
