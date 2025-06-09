@@ -1,6 +1,6 @@
 # M.A.A.S. - Modular Architectural Assemblage System
 
-*With humanitarian aid in decline, the international community must shift its focus from short-term relief efforts to inclusive policies that support both refugees and host communities.* [United Nations, 25 April 2025](https://news.un.org/en/story/2025/04/1162631)
+> *With humanitarian aid in decline, the international community must shift its focus from short-term relief efforts to inclusive policies that support both refugees and host communities.* [United Nations, 25 April 2025](https://news.un.org/en/story/2025/04/1162631)
 
 ## Introduction
 The escalating global challenges of **climate change, extreme events, wars, and other crises** are compelling millions of people to seek new homes each year. Often, those displaced are housed in temporary facilities with limited opportunities to personalize their living spaces. The reality of "climate nomads" necessitates readily deployable architectural solutions, particularly **easily assembled housing** systems that offer **flexible spatial configurations** and incorporate essential architectural features. The MAAS project addresses this urgent need by exploring the design of such adaptable, low-to-mid-density housing systems that leverage the benefits of modularity.
@@ -58,10 +58,3 @@ Participants in the workshops will dig into various relevant topics:
 ### Required Skills and Tools
 Basic **3D modeling and basic fabrication skills** are required for participation in the workshops. The primary software tools will be **Rhino 3d & Grasshopper**, although other 3D modeling tools could also be used. **Wood and metalworking tools will be provided on-site**, while digital fabrication tools such as **3D printers, CNC routers, and robots**, if available, could be utilized.
  
-> lkfjladjfldf
-
-==ddfagafg==
-`asgfafgadfg`
-
-> [1note] zxcbzbzcvbz
-> <xbzxbvbz
