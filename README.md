@@ -39,6 +39,7 @@ It distinctly operates on two interdependent design stages, clearly separating t
 
 **Stage 1: The Design of the "Kits of Parts"**
 This initial stage focuses on the expert design and prototyping of the core modular elements that form the MAAS system.
+
 **Stage 2: The Assembly Configuration by Final Users and the Community**
 This crucial subsequent stage empowers the end-users and the communities themselves to take ownership of the spatial articulation and customization using the pre-designed kits. This is where the multitude of solutions emerges
 
@@ -55,6 +56,7 @@ MAAS is conceived as an open research project, with the understanding that its d
 - [Moduli 225 (1968) - Kristian Gullichsen and Juhani Pallasmaa](https://likemyplace.wordpress.com/2013/11/16/looking-back-modular-moduli225-prototype-by-kristian-gullichsen-and-juhani-pallasmaa-helsinki-finland/)
 - [Wikihouse (2011) - Alastair Parvin and Nick Ierodiaconou](https://www.wikihouse.cc)
 - [Essential Homes Research Project (2022) - Norman Foster Foundation](https://normanfosterfoundation.org/project/essential-homes-research-project/)
+
 Some of the topics addressed by MAAS have already been addressed in the history of architecture by far more prominent architects, engineers, and designers; emergency architecture, prefabrication, open-source design, and sustainable use of local materials have been recurring themes in the last century. The project's aim, however, is to bring them together, re-prioritize them, emphasize the social role of architecture, and contextualize them in the current highly variable geopolitical situation and worsening climate crisis.
 
 ## Research Project Team
