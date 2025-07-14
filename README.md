@@ -50,12 +50,12 @@ The primary goals of this research project are to **design, prototype, and devel
 MAAS is conceived as an open research project, with the understanding that its development could take diverse directions depending on the specific aspects investigated, the materials chosen, the available machinery and facilities, and emerging research opportunities. As an independent research group, the team is **open to collaborations and actively seeking research funding opportunities**. Furthermore, they are **available for mentoring workshops and seminars** in both academic and non-academic settings.
 
 ## References:
-- [6x6 Demountable House (1944) - Jean Prouvé](https://www.jeanprouve.com/en/fiche/1944-6)
-- [Walker Guest House (1952) - Paul Rudolph](https://www.paulrudolph.institute/195202-walker-guest-house)
-- [Experimental House (1951-57 not realized) - George Nelson](https://designpracticesandparadigms.wordpress.com/2013/03/06/800/)
-- [Moduli 225 (1968) - Kristian Gullichsen and Juhani Pallasmaa](https://likemyplace.wordpress.com/2013/11/16/looking-back-modular-moduli225-prototype-by-kristian-gullichsen-and-juhani-pallasmaa-helsinki-finland/)
-- [Wikihouse (2011) - Alastair Parvin and Nick Ierodiaconou](https://www.wikihouse.cc)
-- [Essential Homes Research Project (2022) - Norman Foster Foundation](https://normanfosterfoundation.org/project/essential-homes-research-project/)
+- [Jean Prouvé - 6x6 Demountable House (1944)](https://www.jeanprouve.com/en/fiche/1944-6)
+- [Paul Rudolph - Walker Guest House (1952)](https://www.paulrudolph.institute/195202-walker-guest-house)
+- [George Nelson - Experimental House (1951-57 not realized)](https://designpracticesandparadigms.wordpress.com/2013/03/06/800/)
+- [Kristian Gullichsen and Juhani Pallasmaa - Moduli 225 (1968)](https://likemyplace.wordpress.com/2013/11/16/looking-back-modular-moduli225-prototype-by-kristian-gullichsen-and-juhani-pallasmaa-helsinki-finland/)
+- [Alastair Parvin and Nick Ierodiaconou - Wikihouse (2011)](https://www.wikihouse.cc)
+- [Norman Foster Foundation - Essential Homes Research Project (2022)](https://normanfosterfoundation.org/project/essential-homes-research-project/)
 
 Some of the topics addressed by MAAS have already been addressed in the history of architecture by far more prominent architects, engineers, and designers; emergency architecture, prefabrication, open-source design, and sustainable use of local materials have been recurring themes in the last century. The project's aim, however, is to bring them together, re-prioritize them, emphasize the social role of architecture, and contextualize them in the current highly variable geopolitical situation and worsening climate crisis.
 
