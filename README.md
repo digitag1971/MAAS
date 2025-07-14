@@ -34,7 +34,7 @@ While the kits define the components of the system, **the arrangement, quantity,
 *The image is just for reference. The kits' design and their possible assembly have to be developed.*
 
 ## Two Design Stages and a "Not One Solution" philosophy
-The M.A.A.S. project is designed to facilitate the creation of a multitude of solutions rather than providing a single, pre-defined architectural design.
+The MAAS project is designed to facilitate the creation of a multitude of solutions rather than providing a single, pre-defined architectural design.
 It distinctly operates on two interdependent design stages, clearly separating the creation of foundational components from their final arrangement and personalization.
 
 **Stage 1: The Design of the "Kits of Parts"**
@@ -52,7 +52,7 @@ MAAS is conceived as an open research project, with the understanding that its d
 ## References:
 - [6x6 Demountable House (1944) - Jean Prouvé](https://www.jeanprouve.com/en/fiche/1944-6)
 - [Walker Guest House (1952) - Paul Rudolph](https://www.paulrudolph.institute/195202-walker-guest-house)
-- [George Nelson (1951-57) - Experimental House (not realized)](https://designpracticesandparadigms.wordpress.com/2013/03/06/800/)
+- [Experimental House (1951-57 not realized) - George Nelson](https://designpracticesandparadigms.wordpress.com/2013/03/06/800/)
 - [Moduli 225 (1968) - Kristian Gullichsen and Juhani Pallasmaa](https://likemyplace.wordpress.com/2013/11/16/looking-back-modular-moduli225-prototype-by-kristian-gullichsen-and-juhani-pallasmaa-helsinki-finland/)
 - [Wikihouse (2011) - Alastair Parvin and Nick Ierodiaconou](https://www.wikihouse.cc)
 - [Essential Homes Research Project (2022) - Norman Foster Foundation](https://normanfosterfoundation.org/project/essential-homes-research-project/)
