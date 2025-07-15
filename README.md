@@ -54,6 +54,7 @@ MAAS is conceived as an open research project, with the understanding that its d
 - [Paul Rudolph - Walker Guest House (1952)](https://www.paulrudolph.institute/195202-walker-guest-house)
 - [George Nelson - Experimental House (1951-57 not realized)](https://designpracticesandparadigms.wordpress.com/2013/03/06/800/)
 - [Kristian Gullichsen and Juhani Pallasmaa - Moduli 225 (1968)](https://likemyplace.wordpress.com/2013/11/16/looking-back-modular-moduli225-prototype-by-kristian-gullichsen-and-juhani-pallasmaa-helsinki-finland/)
+- [Shigeru Ban - Paper Log House (1995)](https://shigerubanarchitects.com/works/paper-tubes/paper-log-house-kobe/)
 - [Alastair Parvin and Nick Ierodiaconou - Wikihouse (2011)](https://www.wikihouse.cc)
 - [Norman Foster Foundation - Essential Homes Research Project (2022)](https://normanfosterfoundation.org/project/essential-homes-research-project/)
 
