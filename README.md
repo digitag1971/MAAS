@@ -33,7 +33,7 @@ While the kits define the components of the system, **the arrangement, quantity,
 ![Nodes](https://github.com/user-attachments/assets/67d9158f-b295-4b9c-ba7c-21c394036b39)
 *The image is just for reference. The kits' design and their possible assembly have to be developed.*
 
-## Two Design Stages and a "Not One Solution" philosophy
+## Two Design Stages
 The MAAS project is designed to facilitate the creation of a multitude of solutions rather than providing a single, pre-defined architectural design.
 It distinctly operates on two interdependent design stages, clearly separating the creation of foundational components from their final arrangement and personalization.
 
