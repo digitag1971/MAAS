@@ -62,6 +62,7 @@ MAAS is conceived as an open research project, with the understanding that its d
 Some of the topics addressed by MAAS have already been addressed in the history of architecture by far more prominent architects, engineers, and designers; emergency architecture, prefabrication, open-source design, and sustainable use of local materials have been recurring themes in the last century. The project's aim, however, is to bring them together, re-prioritize them, emphasize the social role of architecture, and contextualize them in the current highly variable geopolitical situation and worsening climate crisis.
 
 ![643](https://github.com/user-attachments/assets/6831004e-ae38-49a2-9651-0a30d2d8fa45)
+<img src="https://github.com/user-attachments/assets/6831004e-ae38-49a2-9651-0a30d2d8fa45.png" width=50% height=50%>
 *George Nelson, Experimental House Model - George Nelson Foundation*
 
 ## Research Project Team
