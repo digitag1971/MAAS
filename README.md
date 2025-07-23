@@ -63,7 +63,7 @@ Some of the topics addressed by MAAS have already been addressed in the history 
 
 ![643](https://github.com/user-attachments/assets/6831004e-ae38-49a2-9651-0a30d2d8fa45)
 
-<img src="https://github.com/user-attachments/assets/6831004e-ae38-49a2-9651-0a30d2d8fa45.jpg" width=50% height=50%>
+<img src="https://private-user-images.githubusercontent.com/11766866/469607660-6831004e-ae38-49a2-9651-0a30d2d8fa45.jpg" width=50% height=50%>
 
 *George Nelson, Experimental House Model - George Nelson Foundation*
 
