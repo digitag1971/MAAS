@@ -50,16 +50,18 @@ The primary goals of this research project are to **design, prototype, and devel
 MAAS is conceived as an open research project, with the understanding that its development could take diverse directions depending on the specific aspects investigated, the materials chosen, the available machinery and facilities, and emerging research opportunities. As an independent research group, the team is **open to collaborations and actively seeking research funding opportunities**. Furthermore, they are **available for mentoring workshops and seminars** in both academic and non-academic settings.
 
 ## References:
-- [Jean Prouvé - 6x6 Demountable House (1944)](https://www.jeanprouve.com/en/fiche/1944-6)
-- [Paul Rudolph - Walker Guest House (1952)](https://www.paulrudolph.institute/195202-walker-guest-house)
-- [George Nelson - Experimental House (1951-57 not realized)](https://designpracticesandparadigms.wordpress.com/2013/03/06/800/)
-- [Kristian Gullichsen and Juhani Pallasmaa - Moduli 225 (1968)](https://likemyplace.wordpress.com/2013/11/16/looking-back-modular-moduli225-prototype-by-kristian-gullichsen-and-juhani-pallasmaa-helsinki-finland/)
-- [Shigeru Ban - Paper Log House (1995)](https://shigerubanarchitects.com/works/paper-tubes/paper-log-house-kobe/)
-- [Interloop - Klip House (1997-2001)](https://bldgblog.com/2010/03/klip-house)
-- [Alastair Parvin and Nick Ierodiaconou - Wikihouse (2011)](https://www.wikihouse.cc)
-- [Norman Foster Foundation - Essential Homes Research Project (2022)](https://normanfosterfoundation.org/project/essential-homes-research-project/)
+- [The Packaged House- Walter Gropius and Konrad Wachsmann (1941)](https://mitp-arch.mitpress.mit.edu/pub/039mb6ku/release/1)
+- [6x6 Demountable House - Jean Prouvé (1944)](https://www.jeanprouve.com/en/fiche/1944-6)
+- [Walker Guest House - Paul Rudolph (1952)](https://www.paulrudolph.institute/195202-walker-guest-house)
+- [Experimental House - George Nelson (1951-57 not realized)](https://designpracticesandparadigms.wordpress.com/2013/03/06/800/)
+- [Moduli 225 - Kristian Gullichsen and Juhani Pallasmaa (1968)](https://likemyplace.wordpress.com/2013/11/16/looking-back-modular-moduli225-prototype-by-kristian-gullichsen-and-juhani-pallasmaa-helsinki-finland/)
+- [Paper Log House - Shigeru Ban (1995)](https://shigerubanarchitects.com/works/paper-tubes/paper-log-house-kobe/)
+- [Klip House - Interloop (1997-2001)](https://bldgblog.com/2010/03/klip-house)
+- [Wikihouse - Alastair Parvin and Nick Ierodiaconou (2011)](https://www.wikihouse.cc)
+- [Essential Homes Research Project - Norman Foster Foundation (2022)](https://normanfosterfoundation.org/project/essential-homes-research-project/)
+- [BetaPort System - Beta Realities (2024)](https://www.betarealities.com/projects/betaport-system)
 
-Some of the topics addressed by MAAS have already been addressed in the history of architecture by far more prominent architects, engineers, and designers; emergency architecture, prefabrication, open-source design, and sustainable use of local materials have been recurring themes in the last century. The project's aim, however, is to bring them together, re-prioritize them, emphasize the social role of architecture, and contextualize them in the current highly variable geopolitical situation and worsening climate crisis.
+Some of the topics addressed by MAAS have already been explored in the history of architecture by far more prominent architects, engineers, and designers; emergency architecture, prefabrication, open-source design, and the sustainable use of local materials have been recurring themes over the last century. The project's aim, however, is to bring them together, reprioritize them, emphasize the social role of architecture, and contextualize them within the current highly variable geopolitical situation and the worsening climate crisis.
 
 ![643](https://github.com/user-attachments/assets/6831004e-ae38-49a2-9651-0a30d2d8fa45)
 *George Nelson, Experimental House Model - George Nelson Foundation*
