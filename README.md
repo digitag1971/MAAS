@@ -50,7 +50,7 @@ The primary goals of this research project are to **design, prototype, and devel
 MAAS is conceived as an open research project, with the understanding that its development could take diverse directions depending on the specific aspects investigated, the materials chosen, the available machinery and facilities, and emerging research opportunities. As an independent research group, the team is **open to collaborations and actively seeking research funding opportunities**. Furthermore, they are **available for mentoring workshops and seminars** in both academic and non-academic settings.
 
 ## References:
-- [The Packaged House- Walter Gropius and Konrad Wachsmann (1941)](https://mitp-arch.mitpress.mit.edu/pub/039mb6ku/release/1)
+- [The Packaged House - Walter Gropius and Konrad Wachsmann (1941)](https://mitp-arch.mitpress.mit.edu/pub/039mb6ku/release/1)
 - [6x6 Demountable House - Jean Prouvé (1944)](https://www.jeanprouve.com/en/fiche/1944-6)
 - [Walker Guest House - Paul Rudolph (1952)](https://www.paulrudolph.institute/195202-walker-guest-house)
 - [Experimental House - George Nelson (1951-57 not realized)](https://designpracticesandparadigms.wordpress.com/2013/03/06/800/)
